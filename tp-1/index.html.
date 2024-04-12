@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rivalidad Cristiano-Messi</title>
+</head>
+<body>
+<header>
+     <h1>Rivalidad Cristiano Ronaldo - Lionel Messi</h1>
+</header>
+    
+<article>
+    <section>
+    <h2>Introducción</h2>
+          <p>La rivalidad Cristiano Ronaldo y Lionel Messi es una rivalidad deportiva alentada por los medios de comunicación y aficionados...</p>
+ </section>
+        
+<section>
+     <h2>Orígenes</h2>
+            <p>En 2007, Cristiano y Messi terminaron segundo y tercero respectivamente...</p>
+ </section>
+        
+ <section>
+            <h2>Relación entre Messi y Ronaldo</h2>
+            <p>En una entrevista de 2016, Cristiano comentó sobre la rivalidad diciendo: "Creo que nos empujamos el uno a otro en la competencia, por eso la competencia es tan alta"...</p>
+  </section>
+        
+     <section>
+            <h2>Premios y reconocimientos</h2>
+            <p>Durante la existencia de la rivalidad, el par domina las ceremonias y rompen múltiples registros de goles para club y país...</p>
+     </section>
+    </article>
+    
+    <footer>
+        <p>Artículo original: <a href="URL_DE_LA_WIKIPEDIA">Rivalidad Cristiano-Messi en Wikipedia</a></p>
+    </footer>
+</body>
+</html>
